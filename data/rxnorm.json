@@ -15,7 +15,196 @@
   "content": "example",
   "count": 205584,
   "concept": [ {
-    "code": "1361667",
-    "display": "hepatitis A vaccine (inactivated) strain HM175 / typhoid Vi polysaccharide vaccine, S typhi Ty2 strain"
+    "code": "103919",
+    "display": "fluvastatin 40 MG Oral Capsule [Lescol]"
+  }, {
+    "code": "104491",
+    "display": "simvastatin 20 MG Oral Tablet [Zocor]"
+  }, {
+    "code": "1245430",
+    "display": "ezetimibe 10 MG / simvastatin 20 MG Oral Tablet [Vytorin]"
+  }, {
+    "code": "1245441",
+    "display": "ezetimibe 10 MG / simvastatin 40 MG Oral Tablet [Vytorin]"
+  }, {
+    "code": "152923",
+    "display": "simvastatin 40 MG Oral Tablet [Zocor]"
+  }, {
+    "code": "1422086",
+    "display": "atorvastatin 10 MG / ezetimibe 10 MG Oral Tablet"
+  }, {
+    "code": "1422093",
+    "display": "atorvastatin 20 MG / ezetimibe 10 MG Oral Tablet"
+  }, {
+    "code": "1944262",
+    "display": "simvastatin 4 MG/ML Oral Suspension [Flolipid]"
+  }, {
+    "code": "1944264",
+    "display": "simvastatin 8 MG/ML Oral Suspension"
+  }, {
+    "code": "1944266",
+    "display": "simvastatin 8 MG/ML Oral Suspension [Flolipid]"
+  }, {
+    "code": "197905",
+    "display": "lovastatin 40 MG Oral Tablet"
+  }, {
+    "code": "198211",
+    "display": "simvastatin 40 MG Oral Tablet"
+  }, {
+    "code": "2001260",
+    "display": "pitavastatin magnesium 1 MG Oral Tablet [Zypitamag]"
+  }, {
+    "code": "2001262",
+    "display": "pitavastatin magnesium 2 MG Oral Tablet"
+  }, {
+    "code": "2001264",
+    "display": "pitavastatin magnesium 2 MG Oral Tablet [Zypitamag]"
+  }, {
+    "code": "2001266",
+    "display": "pitavastatin magnesium 4 MG Oral Tablet"
+  }, {
+    "code": "2001268",
+    "display": "pitavastatin magnesium 4 MG Oral Tablet [Zypitamag]"
+  }, {
+    "code": "200345",
+    "display": "simvastatin 80 MG Oral Tablet"
+  }, {
+    "code": "206258",
+    "display": "lovastatin 40 MG Oral Tablet [Mevacor]"
+  }, {
+    "code": "213319",
+    "display": "simvastatin 80 MG Oral Tablet [Zocor]"
+  }, {
+    "code": "2167557",
+    "display": "rosuvastatin 10 MG Oral Capsule"
+  }, {
+    "code": "2167563",
+    "display": "rosuvastatin 10 MG Oral Capsule [Ezallor]"
+  }, {
+    "code": "2167573",
+    "display": "rosuvastatin 5 MG Oral Capsule"
+  }, {
+    "code": "2535747",
+    "display": "ezetimibe 10 MG / rosuvastatin 5 MG Oral Tablet"
+  }, {
+    "code": "2167575",
+    "display": "rosuvastatin 5 MG Oral Capsule [Ezallor]"
+  }, {
+    "code": "310405",
+    "display": "fluvastatin 40 MG Oral Capsule"
+  }, {
+    "code": "312961",
+    "display": "simvastatin 20 MG Oral Tablet"
+  }, {
+    "code": "359731",
+    "display": "24 HR lovastatin 40 MG Extended Release Oral Tablet"
+  }, {
+    "code": "359732",
+    "display": "24 HR lovastatin 60 MG Extended Release Oral Tablet"
+  }, {
+    "code": "360507",
+    "display": "24 HR fluvastatin 80 MG Extended Release Oral Tablet"
+  }, {
+    "code": "476349",
+    "display": "ezetimibe 10 MG / simvastatin 20 MG Oral Tablet"
+  }, {
+    "code": "476350",
+    "display": "ezetimibe 10 MG / simvastatin 40 MG Oral Tablet"
+  }, {
+    "code": "597967",
+    "display": "amlodipine 10 MG / atorvastatin 20 MG Oral Tablet"
+  }, {
+    "code": "597971",
+    "display": "amlodipine 2.5 MG / atorvastatin 10 MG Oral Tablet"
+  }, {
+    "code": "597974",
+    "display": "amlodipine 2.5 MG / atorvastatin 20 MG Oral Tablet"
+  }, {
+    "code": "597977",
+    "display": "amlodipine 5 MG / atorvastatin 10 MG Oral Tablet"
+  }, {
+    "code": "597980",
+    "display": "amlodipine 5 MG / atorvastatin 20 MG Oral Tablet"
+  }, {
+    "code": "597987",
+    "display": "amlodipine 10 MG / atorvastatin 10 MG Oral Tablet"
+  }, {
+    "code": "617314",
+    "display": "atorvastatin 10 MG Oral Tablet [Lipitor]"
+  }, {
+    "code": "617310",
+    "display": "atorvastatin 20 MG Oral Tablet"
+  }, {
+    "code": "617312",
+    "display": "atorvastatin 10 MG Oral Tablet"
+  }, {
+    "code": "617318",
+    "display": "atorvastatin 20 MG Oral Tablet [Lipitor]"
+  }, {
+    "code": "687048",
+    "display": "24 HR fluvastatin 80 MG Extended Release Oral Tablet [Lescol]"
+  }, {
+    "code": "750199",
+    "display": "amlodipine 10 MG / atorvastatin 10 MG Oral Tablet [Caduet]"
+  }, {
+    "code": "750203",
+    "display": "amlodipine 10 MG / atorvastatin 20 MG Oral Tablet [Caduet]"
+  }, {
+    "code": "750219",
+    "display": "amlodipine 2.5 MG / atorvastatin 20 MG Oral Tablet [Caduet]"
+  }, {
+    "code": "750223",
+    "display": "amlodipine 2.5 MG / atorvastatin 10 MG Oral Tablet [Caduet]"
+  }, {
+    "code": "750227",
+    "display": "amlodipine 5 MG / atorvastatin 10 MG Oral Tablet [Caduet]"
+  }, {
+    "code": "750231",
+    "display": "amlodipine 5 MG / atorvastatin 20 MG Oral Tablet [Caduet]"
+  }, {
+    "code": "859424",
+    "display": "rosuvastatin calcium 5 MG Oral Tablet"
+  }, {
+    "code": "859426",
+    "display": "rosuvastatin calcium 5 MG Oral Tablet [Crestor]"
+  }, {
+    "code": "859747",
+    "display": "rosuvastatin calcium 10 MG Oral Tablet"
+  }, {
+    "code": "859749",
+    "display": "rosuvastatin calcium 10 MG Oral Tablet [Crestor]"
+  }, {
+    "code": "861646",
+    "display": "pitavastatin calcium 1 MG Oral Tablet [Livalo]"
+  }, {
+    "code": "861648",
+    "display": "pitavastatin calcium 2 MG Oral Tablet"
+  }, {
+    "code": "861650",
+    "display": "pitavastatin calcium 2 MG Oral Tablet [Livalo]"
+  }, {
+    "code": "861652",
+    "display": "pitavastatin calcium 4 MG Oral Tablet"
+  }, {
+    "code": "861654",
+    "display": "pitavastatin calcium 4 MG Oral Tablet [Livalo]"
+  }, {
+    "code": "884383",
+    "display": "24 HR lovastatin 60 MG Extended Release Oral Tablet [Altoprev]"
+  }, {
+    "code": "904475",
+    "display": "pravastatin sodium 40 MG Oral Tablet"
+  }, {
+    "code": "904477",
+    "display": "pravastatin sodium 40 MG Oral Tablet [Pravachol]"
+  }, {
+    "code": "904481",
+    "display": "pravastatin sodium 80 MG Oral Tablet"
+  }, {
+    "code": "904483",
+    "display": "pravastatin sodium 80 MG Oral Tablet [Pravachol]"
+  }, {
+    "code": "997007",
+    "display": "24 HR lovastatin 40 MG Extended Release Oral Tablet [Altoprev]"
   } ]
 }
