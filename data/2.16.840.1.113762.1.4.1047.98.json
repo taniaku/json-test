@@ -16,7 +16,7 @@
     "url": "http://hl7.org/fhir/StructureDefinition/valueset-effectiveDate",
     "valueDate": "2023-02-17"
   } ],
-  "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113762.1.4.1047.98",
+  "url": "https://termx.kodality.dev/api/fhir/ValueSet/ValueSet/2.16.840.1.113762.1.4.1047.98",
   "identifier": [ {
     "system": "urn:ietf:rfc:3986",
     "value": "urn:oid:2.16.840.1.113762.1.4.1047.98"
