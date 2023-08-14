@@ -1,0 +1,21 @@
+{
+  "resourceType": "CodeSystem",
+  "id": "RXNORM",
+  "meta": {
+    "versionId": "3786893647",
+    "lastUpdated": "2022-12-07T00:00:00.000-05:00",
+    "profile": [ "http://hl7.org/fhir/StructureDefinition/shareablecodesystem" ]
+  },
+  "url": "http://www.nlm.nih.gov/research/umls/rxnorm",
+  "version": "2023-07",
+  "name": "RXNORM",
+  "title": "RxNorm Vocabulary",
+  "status": "active",
+  "experimental": false,
+  "content": "example",
+  "count": 205584,
+  "concept": [ {
+    "code": "1361667",
+    "display": "hepatitis A vaccine (inactivated) strain HM175 / typhoid Vi polysaccharide vaccine, S typhi Ty2 strain"
+  } ]
+}
